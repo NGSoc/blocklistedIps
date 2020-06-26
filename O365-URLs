@@ -16,10 +16,6 @@ nps.onyx.azure.net
 *.media.azure.net
 *.streaming.mediaservices.windows.net
 *.keydelivery.mediaservices.windows.net
-*broadcast.officeapps.live.com
-*excel.officeapps.live.com
-*onenote.officeapps.live.com
-*powerpoint.officeapps.live.com
 loginex.microsoftonline.com
 login-us.microsoftonline.com
 nexus.microsoftonline-p.com
@@ -79,11 +75,6 @@ cdn.odc.officeapps.live.com
 officecdn.microsoft.com
 officecdn.microsoft.com.edgesuite.net
 *rtc.officeapps.live.com
-*shared.officeapps.live.com
-*view.officeapps.live.com
-*visio.officeapps.live.com
-*word-edit.officeapps.live.com
-*word-view.officeapps.live.com
 office.live.com
 *.cdn.office.net
 contentstorage.osi.office.net
@@ -219,3 +210,12 @@ www.microsoft.com
 loki.delve.office.com
 loki.delve-gcc.office.com
 lpcres.delve.office.com
+*.excel.officeapps.live.com
+*.onenote.officeapps.live.com
+*.powerpoint.officeapps.live.com
+*.rtc.officeapps.live.com
+*.shared.officeapps.live.com
+*.view.officeapps.live.com
+*.visio.officeapps.live.com
+*.word-edit.officeapps.live.com
+*.word-view.officeapps.live.com
