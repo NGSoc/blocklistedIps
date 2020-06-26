@@ -74,7 +74,7 @@ ajax.aspnetcdn.com
 cdn.odc.officeapps.live.com
 officecdn.microsoft.com
 officecdn.microsoft.com.edgesuite.net
-*rtc.officeapps.live.com
+*.rtc.officeapps.live.com
 office.live.com
 *.cdn.office.net
 contentstorage.osi.office.net
@@ -82,7 +82,7 @@ contentstorage.osi.office.net
 *.microsoft.com
 *.msecnd.net
 *.office.net
-*cdn.onenote.net
+*.cdn.onenote.net
 apis.live.net
 cdn.optimizely.com
 officeapps.live.com
