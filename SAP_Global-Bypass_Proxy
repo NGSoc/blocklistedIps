@@ -1,0 +1,14 @@
+*.update.microsoft.com
+*.windowsupdate.com
+*.suse.com
+*.redhat.com
+*.cylance.com
+*.cloudsink.net
+*.sumologic.com
+ab-inbev.visualstudio.com/
+ab-inbev.app.blackduck.com/
+ab-inbev.checkmarx.net/
+ab-inbev.datadoghq.com/
+anypoint.mulesoft.com/
+app.snik.io/
+tax-service.cfapps.eu10.hana.ondemand.com/
